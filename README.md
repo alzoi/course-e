@@ -1,3 +1,3 @@
 # Описание проекта
-обучение JavaScript 
+обучение JavaScript  
 обучение HTML
